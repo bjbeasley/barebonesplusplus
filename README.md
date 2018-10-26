@@ -6,7 +6,7 @@ Statement: <function name> <arg0> <arg1> ... ;
 Expression: <variable/literal> <operator> <variable/literal>
 
 Functions:
-clear <name>;
+clear \<name\>;
  - Initialise a new variable with a given name (any non-whitespace character)
 incr <var>;
  - Increment a given variable's value by 1
